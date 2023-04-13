@@ -1,4 +1,8 @@
-# 👋 Welcome to A Product
+---
+description: Welcome to AutoAI, the future is incoming.
+---
+
+# 👋 AutoAI Documentation
 
 {% hint style="info" %}
 **Quick tip:** Before you panic and contact support about an issue regarding AutoAI, please read the knowledgebase (this url) and try the common fixes in the category .
