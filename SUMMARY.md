@@ -9,8 +9,8 @@
 
 ## Product Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📪 Making a prompt](product-guides/making-a-prompt.md)
+* [📎 Understanding our capability!](product-guides/understanding-our-capability.md)
 
 ## Fundamentals
 
