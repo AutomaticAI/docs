@@ -56,7 +56,7 @@ npm run start
 {% tab title="Run Commands (Yarn)" %}
 You can use the development mode in order to run and see how your website looks before deploying it to the public. Here are the following run commands you can use.\
 \
-NodeJS Version:\
+Yarn Version:\
 
 
 Development Mode:
