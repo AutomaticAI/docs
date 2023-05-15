@@ -21,3 +21,7 @@
 ## Use Cases
 
 * [🖥 For Developers](use-cases/for-developers.md)
+
+## Contact Us
+
+* [📞 Contact](contact-us/contact.md)
