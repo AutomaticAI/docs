@@ -6,7 +6,7 @@
 
 {% endhint %}
 
-## Video overview
+## AutoAI overview
 
 Got a minute? Check out a screenshot overview of our product:
 
@@ -22,5 +22,5 @@ The correct URL of the page should be: [https://use.autoai.site\
 After scrolling down, you'll see a little chatbar. Ask your promt there to our high-class AI and get an answer within seconds. \
 \
 An proper exmaple of a prompt would be: \
-<mark style="color:red;">Hi, what is a documentation's purpose?"</mark>\ <mark style="color:red;">Hi, what is Github?</mark>
+<mark style="color:red;">"Hi, what is a documentation's purpose?"</mark>\ <mark style="color:red;">"Hi, what is Github?"</mark>
 
